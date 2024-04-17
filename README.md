@@ -4,10 +4,8 @@ Welcome to my Data Engineering repository where I delve into the fascinating wor
 
 ## 📂 Projects Overview
 
-### 🚀 FOMO (Function of Optimizing Missing Observations)
+### 🚀 [FOMO (Function of Optimizing Missing Observations)](https://github.com/DigitalBiomarkerDiscoveryPipeline/FOMO)
 Working alongside the Duke Big Idea Lab, I am developing a Python library to finely tune missing observations in digital biomarkers. Our mission is to refine this process, empowering researchers to harness the full potential of their data.
-
-➡️ [Optimize with FOMO](https://github.com/DigitalBiomarkerDiscoveryPipeline/FOMO)
 
 ### ☁️ Cloud-Based Analytics
 #### 🏎️ Formula 1 Analysis on Azure
