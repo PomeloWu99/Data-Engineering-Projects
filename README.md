@@ -1,2 +1,2 @@
 # Data-Engineering-Projects
-This is a repository to record my progress of learning data engineering.
+This is a repository to record my completed projects and continuous learning of data engineering.
