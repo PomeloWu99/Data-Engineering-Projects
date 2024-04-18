@@ -36,7 +36,7 @@ The analysis phase kicked off by establishing a robust database and sales table 
 - The retailers with the most significant sales improvements were Kohl's, Sports Direct, and Foot Locker.
 
 ### Recommendations:
-- Intensify promotional activities during July and August, particularly in the Midwest.
+- Intensify promotional activities during July and August, and in the Midwest region.
 - Expand business with high-performing retailers such as Kohl's, Sports Direct, and Foot Locker to capitalize on market opportunities.
 
 ---
