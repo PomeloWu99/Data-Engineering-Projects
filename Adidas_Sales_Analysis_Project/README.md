@@ -25,6 +25,13 @@ The analysis phase kicked off by establishing a robust database and sales table 
 4. Which products are most affected by seasonal variations?
 5. Which retailers have shown improvement in their sales performance?
 
+## Data Visualization
+
+I used Tableau to build a dashboard to view the total sales across 2021/01/01 to 2021/12/31 and different states. This is an interactive graph. If audiences want to see the breakdown of different sales methods and products, they can also click each state on the map to see it.
+
+<img width="1003" alt="image" src="https://github.com/PomeloWu99/Data-Engineering-Projects/assets/100142240/aa9279ff-0e38-46cc-adfe-e13cf8113cde">
+
+
 ## Conclusions and Recommendations
 
 ### Conclusions:
